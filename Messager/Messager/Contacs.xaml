@@ -1,0 +1,31 @@
+﻿<Page x:Class="Messager.Contacs"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Messager"
+      mc:Ignorable="d" 
+      Width="258" Height="500"
+      Title="Contacs" Background="#f1f1f1">
+    <Page.Resources>
+        <ControlTemplate TargetType="local:CustomButton" x:Key="Bt1Template" x:Name="Bt1Template">
+            <Canvas Width="255" Height="65" Background="{TemplateBinding ColorBackground}" >
+                <Ellipse Fill="{TemplateBinding ColorCircleBackground}" Height="50" Canvas.Left="6"  StrokeThickness="0" Canvas.Top="6" Width="50"/>
+                <Label Content="{TemplateBinding TextName}" Canvas.Left="56" Canvas.Top="6" FontWeight="DemiBold" FontSize="12"/>
+                <Label Content="{TemplateBinding TextMessage}" Canvas.Left="56" Canvas.Top="33" Foreground="#a8a8a8" FontSize="10"/>
+                <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="{TemplateBinding TextSubname}" Canvas.Left="6" Canvas.Top="7" Height="50" Width="50" FontWeight="Bold" Foreground="White" FontSize="18"/>
+            </Canvas>
+        </ControlTemplate>
+    </Page.Resources>
+    <Canvas>
+        <Canvas x:Name="BtnClose" Width="30" Height="30" Canvas.Left="228" Canvas.ZIndex="1">
+            <Label Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="X" Foreground="#a8a8a8" FontWeight="ExtraBold" FontSize="14"></Label>
+        </Canvas>
+        <Canvas Width="258" Height="136" Background="White">
+            <Label Content="Контакты" Canvas.Left="16" Canvas.Top="20" FontSize="20" />
+            <TextBox HorizontalContentAlignment="Left" VerticalContentAlignment="Center" x:Name="tBox" Canvas.Left="19" BorderThickness="0" Canvas.Top="72" Width="221" Height="30"  Canvas.ZIndex="1" Opacity="0.6"/>
+            <Label x:Name="Change" Content="Поиск..." Canvas.Left="19" Canvas.Top="72" Height="30" Foreground="#a8a8a8"/>
+        </Canvas>
+        <StackPanel Background="White" x:Name="StackPanel" Width="258" Height="359" Canvas.Top="141"/>
+    </Canvas>
+</Page>

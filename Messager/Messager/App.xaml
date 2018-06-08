@@ -1,0 +1,23 @@
+﻿<Application x:Class="Messager.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Messager"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ControlTemplate TargetType="local:CustomMessage" x:Key="Bt2Template">
+            <Grid HorizontalAlignment="Left">
+                <Grid Margin="5,5,5,5" MinWidth="100" MinHeight="35" HorizontalAlignment="Left">
+                    <Ellipse Margin="5,0,0,0" Fill="{TemplateBinding ColorBackgroundCircle}" Width="40" Height="40"  HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                    <Border  Margin="50,0,0,0"  MinHeight="35" BorderBrush="{TemplateBinding ColorBackgroundMessage}" BorderThickness="1,1,1,1" CornerRadius="8,8,8,8" Canvas.ZIndex="2" Background="{TemplateBinding ColorBackgroundMessage}" HorizontalAlignment="Left" MinWidth="100" >
+                        <TextBlock  Margin="7,9.2,90,9.6" HorizontalAlignment="Left" Text="{TemplateBinding TextMessage}"/>
+                    </Border>
+                    <Label VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Canvas.ZIndex="3" Content="{TemplateBinding TextTime}" Height="30" Foreground="#a8a8a8" Margin="0,0,27,0" HorizontalAlignment="Right" Width="40"/>
+                    <Canvas Canvas.ZIndex="5"  HorizontalAlignment="Right" Width="22" Height="38" VerticalAlignment="Bottom" Margin="0,0,5.4,0" >
+                        <Image  VerticalAlignment="Bottom" Canvas.ZIndex="3"  Width="22"  Source="{TemplateBinding CheckImageSource}"  Height="30"/>
+                    </Canvas>
+                    <Label FontSize="20" Foreground="White" FontWeight="DemiBold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="{TemplateBinding TextSub}" HorizontalAlignment="Left" Margin="5,0,0,0" VerticalAlignment="Bottom" Height="40" Width="40"/>
+                </Grid>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

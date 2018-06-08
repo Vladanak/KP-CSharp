@@ -1,0 +1,31 @@
+﻿<Page x:Class="Messager.Info"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Messager"
+      mc:Ignorable="d" 
+      Width="396.8" Height="483.2"
+      Title="Inform" Background="#f1f1f1">
+    <Canvas >
+        <Canvas x:Name="BtnClose" Width="30" Height="30" Canvas.Left="367" Canvas.ZIndex="1">
+            <Label Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="X" Foreground="#a8a8a8" FontWeight="ExtraBold" FontSize="14"></Label>
+        </Canvas>
+        <Canvas Width="397" Height="230" Background="White">
+            <Label Content="Информация" Canvas.Left="16" Canvas.Top="20" FontSize="20" />
+            <Ellipse x:Name="Ellipse" Fill="#FFF4F4F5" Height="70" Canvas.Left="16"  Canvas.Top="80" Width="70" />
+            <Label x:Name="NameSurname" Content="Name Surname" Canvas.Left="101" Canvas.Top="88" FontSize="15" FontWeight="Medium"/>
+            <Label x:Name="SubName" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Content="NS" Canvas.Left="16" Canvas.Top="80" FontSize="35" FontWeight="Medium" Foreground="White" Width="70" Height="70"/>
+        </Canvas>
+
+        <Canvas Width="397" Height="243" Background="White" Canvas.Top="240" >
+            <Label x:Name="Phone" Content="PhoneNumber" Canvas.Left="98" Canvas.Top="40" FontSize="15" />
+            <Label Content="Номер телефона" Canvas.Left="98" Canvas.Top="65" FontSize="13" Foreground="#a8a8a8"/>
+            <Label x:Name="UserName" Content="UserName" Canvas.Left="98" Canvas.Top="103" FontSize="15" />
+            <Label Content="Имя пользователя" Canvas.Left="98" Canvas.Top="129" FontSize="13" Foreground="#a8a8a8"/>
+            <Label x:Name="Email" Content="Email" Canvas.Left="98" Canvas.Top="165" FontSize="15" />
+            <Label Content="Электронная почта" Canvas.Left="98" Canvas.Top="188" FontSize="13" Foreground="#a8a8a8"/>
+        </Canvas>
+
+    </Canvas>
+</Page>

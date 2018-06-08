@@ -1,0 +1,73 @@
+D:\Муровей\Messager\Server\bin\Debug\Server.exe.config
+D:\Муровей\Messager\Server\bin\Debug\Server.exe
+D:\Муровей\Messager\Server\bin\Debug\Server.pdb
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Муровей\Messager\Server\bin\Debug\Remotion.Linq.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Collections.Immutable.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Interactive.Async.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Муровей\Messager\Server\bin\Debug\System.Text.Encodings.Web.dll
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Муровей\Messager\Server\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Муровей\Messager\Server\bin\Debug\Remotion.Linq.xml
+D:\Муровей\Messager\Server\bin\Debug\System.Collections.Immutable.xml
+D:\Муровей\Messager\Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Муровей\Messager\Server\bin\Debug\System.Interactive.Async.xml
+D:\Муровей\Messager\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Муровей\Messager\Server\bin\Debug\System.Text.Encodings.Web.xml
+D:\Муровей\Messager\Server\obj\Debug\Server.exe
+D:\Муровей\Messager\Server\obj\Debug\Server.pdb
+D:\Муровей\Messager\Server\bin\Debug\EntityFramework.dll
+D:\Муровей\Messager\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Муровей\Messager\Server\bin\Debug\EntityFramework.xml
+D:\Муровей\Messager\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Муровей\Messager\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\Server.exe.config
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\Server.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\Server.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\EntityFramework.dll
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\EntityFramework.xml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\obj\Debug\Server.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Server\obj\Debug\Server.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\Server.exe.config
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\Server.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\Server.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\EntityFramework.dll
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\EntityFramework.xml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\obj\Debug\Server.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Server\obj\Debug\Server.pdb

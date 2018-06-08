@@ -1,0 +1,36 @@
+﻿<Page x:Class="Messager.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Messager"
+      mc:Ignorable="d" 
+      
+      Background="White"
+      Title="Menu" Width="258" Height="900">
+    <Canvas Canvas.ZIndex="2">
+        <Canvas VerticalAlignment="Top" Height="129" Background="#419fd9" Width="258">
+            <Label x:Name="tName" Content="Name" Canvas.Left="26" Canvas.Top="60" Foreground="White"/>
+            <Label x:Name="tPhone" Content="Phone" Canvas.Left="26" Canvas.Top="78" FontWeight="Bold" Foreground="White"/>
+            <Label x:Name="tEmai" Content="Email" Canvas.Left="26" Canvas.Top="99" FontWeight="Bold" Foreground="White"/>
+            <Ellipse x:Name="elipse" Fill="#FFF4F4F5" Height="46" Canvas.Left="26"  Canvas.Top="14" Width="48"/>
+            <Label x:Name="tSubname" Content="NS" Canvas.Left="36" Canvas.Top="24" FontWeight="Bold" Foreground="White"/>
+        </Canvas>
+        <Canvas x:Name="Contacts" Height="40" Canvas.Top="147" Width="258">
+            <Image Source="icons/ContactsNew.png" Height="22" Width="39" Canvas.Left="26" Canvas.Top="10"></Image>
+            <Label Content="Контакты" Canvas.Left="73" Canvas.Top="5"  Foreground="Black" FontWeight="Normal" FontSize="13"/>
+        </Canvas>
+        <Canvas x:Name="Settings" Height="40" Canvas.Top="187" Width="258">
+            <Image Source="icons/SettingsNew.png" Height="25" Width="38" Canvas.Left="27" Canvas.Top="7"/>
+            <Label Content="Настройки" Canvas.Left="73" Canvas.Top="5" FontWeight="Normal" Foreground="Black" FontSize="13"/>
+        </Canvas>
+        <Canvas x:Name="Exit" Height="40" Canvas.Top="259" Width="258">
+            <Image Source="icons/Exit.png" Height="25" Width="38" Canvas.Left="27" Canvas.Top="7"/>
+            <Label Content="Выход" Canvas.Left="73" Canvas.Top="5" FontWeight="Normal" Foreground="Black" FontSize="13"/>
+        </Canvas>
+        <Label Content="MyDesktop" Canvas.Left="23" Canvas.Top="814" Foreground="#a8a8a8" FontSize="15" FontWeight="Bold"/>
+        <Label Content="Версия 1.0  -" Canvas.Left="23" Canvas.Top="849" Foreground="#a8a8a8" FontSize="13" />
+        <Label x:Name="LAutor"   Content="О программе" Canvas.Left="140" Canvas.Top="849" Foreground="#a8a8a8" FontSize="13" />
+
+    </Canvas>
+</Page>

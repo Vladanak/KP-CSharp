@@ -1,0 +1,147 @@
+D:\Муровей\Messager\Messager\bin\Debug\Messager.exe.config
+D:\Муровей\Messager\Messager\bin\Debug\Messager.exe
+D:\Муровей\Messager\Messager\bin\Debug\Messager.pdb
+D:\Муровей\Messager\Messager\obj\Debug\MainWindow.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\App.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Messager_MarkupCompile.cache
+D:\Муровей\Messager\Messager\obj\Debug\Messager_MarkupCompile.lref
+D:\Муровей\Messager\Messager\obj\Debug\MainWindow.baml
+D:\Муровей\Messager\Messager\obj\Debug\Messager.g.resources
+D:\Муровей\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+D:\Муровей\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+D:\Муровей\Messager\Messager\obj\Debug\Messager.exe
+D:\Муровей\Messager\Messager\obj\Debug\Messager.pdb
+D:\Муровей\Messager\Messager\obj\Debug\AllDialog.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\AllDialog.baml
+D:\Муровей\Messager\Messager\obj\Debug\Menu.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Menu.baml
+D:\Муровей\Messager\Messager\obj\Debug\Message.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Message.baml
+D:\Муровей\Messager\Messager\obj\Debug\DialogWindow.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Register.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\SignIn.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\DialogWindow.baml
+D:\Муровей\Messager\Messager\obj\Debug\Register.baml
+D:\Муровей\Messager\Messager\obj\Debug\SignIn.baml
+D:\Муровей\Messager\Messager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Contacs.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Info.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Settings.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Contacs.baml
+D:\Муровей\Messager\Messager\obj\Debug\Info.baml
+D:\Муровей\Messager\Messager\obj\Debug\Settings.baml
+D:\Муровей\Messager\Messager\obj\Debug\Autor.g.cs
+D:\Муровей\Messager\Messager\obj\Debug\Autor.baml
+D:\Муровей\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+D:\Муровей\Messager\Messager\obj\Debug\App.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\bin\Debug\Messager.exe.config
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\bin\Debug\Messager.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\bin\Debug\Messager.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\AllDialog.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Autor.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Contacs.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\DialogWindow.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Info.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\MainWindow.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Menu.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Message.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Register.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Settings.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\SignIn.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\App.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager_MarkupCompile.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager_MarkupCompile.lref
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\App.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\AllDialog.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Autor.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Contacs.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\DialogWindow.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Info.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\MainWindow.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Menu.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Message.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Register.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Settings.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\SignIn.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.g.resources
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master\Messager\Messager\obj\Debug\Messager.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.exe.config
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.pdb
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\AllDialog.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Autor.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Contacs.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\DialogWindow.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Info.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\MainWindow.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Menu.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Message.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Register.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Settings.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\SignIn.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\App.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager_MarkupCompile.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager_MarkupCompile.lref
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\App.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\AllDialog.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Autor.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Contacs.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\DialogWindow.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Info.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\MainWindow.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Menu.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Message.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Register.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Settings.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\SignIn.baml
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.g.resources
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.exe
+C:\Users\Silent Hill\Desktop\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.pdb
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.exe.config
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.exe
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\bin\Debug\Messager.pdb
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\AllDialog.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Autor.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Contacs.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\DialogWindow.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Info.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\MainWindow.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Menu.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Message.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Register.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Settings.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\SignIn.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\App.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager_MarkupCompile.cache
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager_MarkupCompile.lref
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\App.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\AllDialog.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Autor.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Contacs.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\DialogWindow.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Info.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\MainWindow.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Menu.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Message.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Register.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Settings.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\SignIn.baml
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.g.resources
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.exe
+D:\Учёба\4 Семестр\ООТП\Курсач\KP-CSharp-master - копия\Messager\Messager\obj\Debug\Messager.pdb
